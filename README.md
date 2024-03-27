@@ -8,6 +8,6 @@ Our team is made up of tech and business experts who love to learn and create so
 ## Benefit
 
 How ASP.NET Prime Can Benefit Your Business?
-It helps you build new web applications faster.
-It saves you time and more redevelopment and cuts IT costs by 50-70%.
-Ultimately, it increases business productivity and your customer or user experience.
+* It helps you build new web applications faster.
+* It saves you time and more redevelopment and cuts IT costs by 50-70%.
+* Ultimately, it increases business productivity and your customer or user experience.
