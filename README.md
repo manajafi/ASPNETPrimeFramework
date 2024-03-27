@@ -18,4 +18,4 @@ Link: https://aspnetprime.com
 
 ## Live Demo
 
-* Link: https://demo.aspnetprime.com
+Link: https://demo.aspnetprime.com
