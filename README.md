@@ -1,4 +1,4 @@
-# ASP.NET Prime
+# ASP.NET Prime Framework
 
 What is ASP.NET Prime:
 <br/>
