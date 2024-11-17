@@ -17,6 +17,8 @@ How ASP.NET Prime Can Benefit Your Business?
 
 ## Website:
 https://aspnetprime.com
+(The site is being updated.)
 
 ## Live demo:
 https://demo.aspnetprime.com
+(The demo version is being updated.)
